@@ -4,6 +4,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/MrSetOne)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrsetone&left_color=gray&right_color=blue)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsetone&show_icons=true&bg_color=DEG,850B20,37000A&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89&locale=es&custom_title=MrSetOne&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
