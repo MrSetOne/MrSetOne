@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+[![Repos Badge](https://badges.pufler.dev/repos/MrSetOne)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mrsetone/mrsetone)](https://badges.pufler.dev)
+
+
+
+
+
 <!--
 **MrSetOne/MrSetOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
