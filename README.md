@@ -1,12 +1,14 @@
-### Hi there 👋
+<h1 align="center">¡Hola! Soy Mike</h1>
+
+<div align="center">
+  <img  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+</div>
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/MrSetOne)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrsetone&left_color=gray&right_color=blue)
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrsetone&show_icons=true&bg_color=DEG,850B20,37000A&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89&locale=es&custom_title=MrSetOne&hide=prs,issues">
-</div>
 
 <h2>FrontEnd</h2>
 <div>
