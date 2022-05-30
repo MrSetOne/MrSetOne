@@ -2,8 +2,7 @@
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/MrSetOne)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/mrsetone/mrsetone)](https://badges.pufler.dev)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mrsetone&left_color=gray&right_color=blue)
 
 
 
